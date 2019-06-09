@@ -1,4 +1,4 @@
-Analyzing Customer Reviews using Web-scraping, Basic NLP 
+Analyzing Customer Reviews using Web-scraping & Basic NLP 
 
 The goal of this project was to identify an organizations pain points when it comes to the quality of their products and services.
 This was achieved by identifying and summarising over 300 customer reviews specific to the organization. 
